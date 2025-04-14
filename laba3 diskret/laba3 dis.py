@@ -96,7 +96,7 @@ print("Булеан E:", powerset)
 
 print('\n')
 
-R = [('Иванов', 'chiken burger'), ('Петров', 'pelmenes')]
+R = [('Кузнецов', 'chiken burger'), ('Коробенко', 'pelmenes')]
 S = [('chiken burger', 'kartoshka'), ('pelmenes', 'varenikes')]
 
 
@@ -139,7 +139,7 @@ def check_relation_properties(relation, domain, codomain):
     }
 
 
-students = ['Иванов', 'Петров']
+students = ['Кузнецов', 'Коробенко']
 dishes = ['chiken burger', 'pelmenes']
 products = ['kartoshka', 'varenikes']
 
